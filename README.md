@@ -1,2 +1,2 @@
-# Project
+# Project game
 project game
